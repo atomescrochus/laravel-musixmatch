@@ -1,7 +1,7 @@
 {
     "name": "atomescrochus/laravel-musixmatch",
     "type": "library",
-    "description": "An easy way to interact with the Musixmatch API from any Laravel >= 5.3 application.",
+    "description": "Search the Musixmatch API with cache support",
     "keywords": [
         "atomescrochus",
         "laravel-musixmatch",
