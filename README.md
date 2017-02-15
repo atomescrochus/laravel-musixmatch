@@ -1,4 +1,4 @@
-# Search the Musixmatch API
+# Search the Musixmatch API with cache support
 
 [![Latest Stable Version](https://poser.pugx.org/atomescrochus/laravel-musixmatch/v/stable)](https://packagist.org/packages/atomescrochus/laravel-musixmatch)
 [![License](https://poser.pugx.org/atomescrochus/laravel-musixmatch/license)](https://packagist.org/packages/atomescrochus/laravel-musixmatch)
