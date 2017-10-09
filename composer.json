@@ -48,7 +48,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Atomescrochus\\Musixmatch\\MusixmatchServiceProvider::class,"
+                "Atomescrochus\\Musixmatch\\MusixmatchServiceProvider"
             ]
         }
     }
